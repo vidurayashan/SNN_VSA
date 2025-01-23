@@ -1,4 +1,5 @@
 # Spiking Neural Network Implementation of Fourier Holographic Reduced Representations (FHRR)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14723420.svg)](https://doi.org/10.5281/zenodo.14723420)
 
 This repository contains the code for implementing **Fourier Holographic Reduced Representations (FHRR)** within **Spiking Neural Networks (SNNs)**, leveraging the **Lava** neuromorphic computing framework. This project explores the potential of FHRR as a middle-layer abstraction to bridge the gap between neuromorphic hardware and practical real-world applications.
 
